@@ -1,0 +1,35 @@
+
+# Node modules
+node_modules/
+
+# Test results and reports
+test-results/
+playwright-report/
+blob-report/
+html-report/
+
+# Playwright cache
+playwright/.cache/
+
+# Environment files
+
+# Configuration files
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Certificates
+/certs/
+*.pfx
+*.p12
+*.cer
+
