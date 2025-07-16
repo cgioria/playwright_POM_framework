@@ -1,3 +1,3 @@
-*.ts linguist-language=TypeScript
-*.feature linguist-language=Cucumber
-*.spec.ts linguist-language=Playwright
+*.ts linguist-language=TypeScrip
+*.feature linguist-language=Gherkin  
+*.spec.ts linguist-language=TypeScript  
